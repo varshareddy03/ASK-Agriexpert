@@ -1,0 +1,15 @@
+body{
+    color: rgb(1, 75, 1);
+    font-family: 'DynaPuff', cursive;
+    background-color:#bcf3bc;
+}
+img{
+    border-radius: 5px;
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: underline;
+    color: rgb(1, 75, 1);
+}

@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://images.freeimages.com/images/large-previews/a67/india-outline-map-1158103.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    background-color: rgb(222, 254, 239);
+    font-family: 'PT Sans', sans-serif;
+}
+h1{
+    text-align: center;
+    color: green;
+    font-weight: normal;
+    text-decoration: underline;
+    font-family: 'DynaPuff', cursive;
+}
+h3{
+    color: green;
+    text-decoration: underline;
+    font-family: 'DynaPuff', cursive;
+}

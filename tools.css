@@ -1,0 +1,16 @@
+.card{
+    width: 250px;
+    margin: auto;
+}
+
+h1,h2,h3{
+    font-family: 'DynaPuff', cursive;
+    color: rgb(49, 84, 55);
+}
+img{
+    height: 150px;
+}
+body{
+    background-image: url(https://jooinn.com/images/subtle-green-grunge-texture.jpg);
+}
+
